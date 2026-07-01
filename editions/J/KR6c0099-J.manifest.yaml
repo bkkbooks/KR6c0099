@@ -1,0 +1,226 @@
+canonical_identifier: bkk:krp/KR6c0099/J/v1
+canonical_location: https://kanripo.org/bkk/KR6c0099/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛般若經疏論纂要刊定記會編
+  identifiers:
+    krp: KR6c0099
+    cbeta: J31nB269
+    cbeta_old_id: J31nB269
+    authorityid: CA0005935
+    json_key: JB269
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J31/J31nB269.xml
+    old_id: J31nB269
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0099_000-J.yaml, hash: 'sha256:2347b7c36d86e61bf6fdc16d2ee7461a804faeb9e258dcd23193bff8d19fc973'}
+  - {seq: 1, filename: KR6c0099_001-J.yaml, hash: 'sha256:f2af52db43d3bf9194bc74591acb87418581cfeaaa44e120a8f811c6f287942d'}
+  - {seq: 2, filename: KR6c0099_002-J.yaml, hash: 'sha256:d6388d462b58603b72843bae2bd276d97c82a09bcc08b336de24726a4f7f364c'}
+  - {seq: 3, filename: KR6c0099_003-J.yaml, hash: 'sha256:9405a9e4e7c02efee84bf3aaa224513df57486c0c41303557156ea7dd4ea5930'}
+  - {seq: 4, filename: KR6c0099_004-J.yaml, hash: 'sha256:d6be235615921a59fbaa88d2fd4b214d515a416976fa01dfc0e6851f39bd7520'}
+  - {seq: 5, filename: KR6c0099_005-J.yaml, hash: 'sha256:2b82d082066913ecfa66fbc3792d5575daf15192a9f5b7ba4f2f7847762d94f6'}
+  - {seq: 6, filename: KR6c0099_006-J.yaml, hash: 'sha256:1bcc3151d48334b7fdad81b131756b4e6d30a2b1697966cc9605b8695018e935'}
+  - {seq: 7, filename: KR6c0099_007-J.yaml, hash: 'sha256:112f475306c50c779d3e05aa92efa897ba018e643866fd3f51eb93d021d809cc'}
+  - {seq: 8, filename: KR6c0099_008-J.yaml, hash: 'sha256:3c0c6a94ca3fbdb6af44512544eb4dbb5852990febd76f4e7577ea401599db23'}
+  - {seq: 9, filename: KR6c0099_009-J.yaml, hash: 'sha256:a30775f170381cfd71584a6617012a56f3147088905340962bca29e56a936096'}
+  - {seq: 10, filename: KR6c0099_010-J.yaml, hash: 'sha256:a1981047eeb74a9fbccfdc662f5d66df53c48dac0f52f44e8a4343c15b6a6bed'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0099_000-J.markers.yaml, hash: 'sha256:5088ded7eab2bdb5314fded39c0608b610e9e390445250d54f3224d89d14ba80'}
+  - {seq: 1, role: markers, filename: assets/KR6c0099_001-J.markers.yaml, hash: 'sha256:f1d34a285119060b0678df795c8c3e1bae5e9ecaf1edccd7d65fa613f1a32ec5'}
+  - {seq: 2, role: markers, filename: assets/KR6c0099_002-J.markers.yaml, hash: 'sha256:fe6d942848034234eb395534f8fbfbe5fa13bf84d31fa8328fbc2e02286270ba'}
+  - {seq: 3, role: markers, filename: assets/KR6c0099_003-J.markers.yaml, hash: 'sha256:0a50dee78dedde97bda44199226bad724d265595e83db9bb4051faaac7682116'}
+  - {seq: 4, role: markers, filename: assets/KR6c0099_004-J.markers.yaml, hash: 'sha256:6e40267c079d7d80e2a2c9b5b485e1276a3ef27fd2cdf9f9627281e429108a3f'}
+  - {seq: 5, role: markers, filename: assets/KR6c0099_005-J.markers.yaml, hash: 'sha256:0ce55d0d82f3b276e878b43271ca0f114331f8ddb261e937c8e78257e0f90d38'}
+  - {seq: 6, role: markers, filename: assets/KR6c0099_006-J.markers.yaml, hash: 'sha256:23017dac7a73b22f62637415558bd149b4d5552c59730b16d47305ca09a0838d'}
+  - {seq: 7, role: markers, filename: assets/KR6c0099_007-J.markers.yaml, hash: 'sha256:f0e08fd8c48a308efdb2e54807164498a62515df0f0353e3ddee3c59a2a7fdbb'}
+  - {seq: 8, role: markers, filename: assets/KR6c0099_008-J.markers.yaml, hash: 'sha256:ae98f811a15b32511ee13312babbaff08ad38f2ebd380915e91342512a3f9a53'}
+  - {seq: 9, role: markers, filename: assets/KR6c0099_009-J.markers.yaml, hash: 'sha256:613c2c9473e289aac5f459af93b551f2a14182462950625f7c2a4edd1329b19b'}
+  - {seq: 10, role: markers, filename: assets/KR6c0099_010-J.markers.yaml, hash: 'sha256:a5c9565b92a72d35bb7dd3e8944a10d61877dff2494511365e2315b1c3b1300b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0099_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 科文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0099_J_000-mulu-2
+    span:
+    - front
+    - 3864
+    - 3864
+  label: 十八住階位圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0099_J_000-mulu-3
+    span:
+    - front
+    - 3870
+    - 3870
+  label: 十八住階位圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0099_J_000-mulu-4
+    span:
+    - front
+    - 4362
+    - 4362
+  label: 二十七疑脈絡圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0099_J_000-mulu-5
+    span:
+    - front
+    - 4369
+    - 4369
+  label: 二十七疑脈絡圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0099_J_000-mulu-6
+    span:
+    - front
+    - 4795
+    - 4795
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0099_J_000-mulu-7
+    span:
+    - front
+    - 5690
+    - 5690
+  label: 例言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0099_J_000-mulu-8
+    span:
+    - front
+    - 6339
+    - 6339
+  label: 會編
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0099_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 10939
+  label: 金剛般若經疏論纂要刊定記會編卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0099_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 9734
+  label: 金剛般若經疏論纂要刊定記會編卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0099_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 10284
+  label: 金剛般若經疏論纂要刊定記會編卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0099_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 10726
+  label: 金剛般若經疏論纂要刊定記會編卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0099_J_005-juan-start
+    span:
+    - body
+    - 0
+    - 10800
+  label: 金剛般若經疏論纂要刊定記會編卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0099_J_006-juan-start
+    span:
+    - body
+    - 0
+    - 9771
+  label: 金剛般若經疏論纂要刊定記會編卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0099_J_007-juan-start
+    span:
+    - body
+    - 0
+    - 11558
+  label: 金剛般若經疏論纂要刊定記會編卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0099_J_008-juan-start
+    span:
+    - body
+    - 0
+    - 10621
+  label: 金剛般若經疏論纂要刊定記會編卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0099_J_009-juan-start
+    span:
+    - body
+    - 0
+    - 10758
+  label: 金剛般若經疏論纂要刊定記會編卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0099_J_010-juan-start
+    span:
+    - body
+    - 0
+    - 12168
+  label: 金剛般若經疏論纂要刊定記會編卷第十
+  type: juan
+  level: 1
+hash: sha256:a2c595f50c1cdf8c5d6d9f30e4e99f70e0d20cec6b451ba82fcfcbeca3a7abdf
