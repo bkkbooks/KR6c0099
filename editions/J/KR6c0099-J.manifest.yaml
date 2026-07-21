@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6c0099_000-J.yaml, hash: 'sha256:2347b7c36d86e61bf6fdc16d2ee7461a804faeb9e258dcd23193bff8d19fc973'}
+  - {seq: 0, filename: KR6c0099_000-J.yaml, hash: 'sha256:d8577e6a436537622c6bb84c30558c187b869a309a2b2e84c80a58e0e38e0a84'}
   - {seq: 1, filename: KR6c0099_001-J.yaml, hash: 'sha256:f2af52db43d3bf9194bc74591acb87418581cfeaaa44e120a8f811c6f287942d'}
   - {seq: 2, filename: KR6c0099_002-J.yaml, hash: 'sha256:d6388d462b58603b72843bae2bd276d97c82a09bcc08b336de24726a4f7f364c'}
   - {seq: 3, filename: KR6c0099_003-J.yaml, hash: 'sha256:9405a9e4e7c02efee84bf3aaa224513df57486c0c41303557156ea7dd4ea5930'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6c0099_009-J.yaml, hash: 'sha256:a30775f170381cfd71584a6617012a56f3147088905340962bca29e56a936096'}
   - {seq: 10, filename: KR6c0099_010-J.yaml, hash: 'sha256:a1981047eeb74a9fbccfdc662f5d66df53c48dac0f52f44e8a4343c15b6a6bed'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0099_000-J.markers.yaml, hash: 'sha256:5088ded7eab2bdb5314fded39c0608b610e9e390445250d54f3224d89d14ba80'}
+  - {seq: 0, role: markers, filename: assets/KR6c0099_000-J.markers.yaml, hash: 'sha256:2b45e2a1809e5a82eb436bf478fa9b024ee6d67ffe64fe24c3e5404a08c15c3a'}
   - {seq: 1, role: markers, filename: assets/KR6c0099_001-J.markers.yaml, hash: 'sha256:f1d34a285119060b0678df795c8c3e1bae5e9ecaf1edccd7d65fa613f1a32ec5'}
   - {seq: 2, role: markers, filename: assets/KR6c0099_002-J.markers.yaml, hash: 'sha256:fe6d942848034234eb395534f8fbfbe5fa13bf84d31fa8328fbc2e02286270ba'}
   - {seq: 3, role: markers, filename: assets/KR6c0099_003-J.markers.yaml, hash: 'sha256:0a50dee78dedde97bda44199226bad724d265595e83db9bb4051faaac7682116'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0099_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 科文
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0099_J_000-mulu-2
     span:
-    - front
+    - body
     - 3864
     - 3864
   label: 十八住階位圖
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0099_J_000-mulu-3
     span:
-    - front
+    - body
     - 3870
     - 3870
   label: 十八住階位圖說
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0099_J_000-mulu-4
     span:
-    - front
+    - body
     - 4362
     - 4362
   label: 二十七疑脈絡圖
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0099_J_000-mulu-5
     span:
-    - front
+    - body
     - 4369
     - 4369
   label: 二十七疑脈絡圖說
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0099_J_000-mulu-6
     span:
-    - front
+    - body
     - 4795
     - 4795
   label: 序
@@ -107,7 +107,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0099_J_000-mulu-7
     span:
-    - front
+    - body
     - 5690
     - 5690
   label: 例言
@@ -117,7 +117,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0099_J_000-mulu-8
     span:
-    - front
+    - body
     - 6339
     - 6339
   label: 會編
@@ -223,4 +223,4 @@ table_of_contents:
   label: 金剛般若經疏論纂要刊定記會編卷第十
   type: juan
   level: 1
-hash: sha256:a2c595f50c1cdf8c5d6d9f30e4e99f70e0d20cec6b451ba82fcfcbeca3a7abdf
+hash: sha256:bd663771e983f8d09aeb00e98a61686a4b0c2be0b80245b64ad0a85e3f9821f6
